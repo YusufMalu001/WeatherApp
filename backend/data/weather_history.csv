@@ -1,0 +1,17 @@
+date_time,city,temperature,humidity,weather_condition
+2025-04-12 03:35:21,Kolkata,25.73,82,Clouds
+2025-04-12 03:47:41,Mumbai,27.13,73,Clear
+2025-04-12 03:48:16,New Delhi,29.31,38,Clouds
+2025-04-12 03:48:36,Kolkata,25.73,82,Clouds
+2025-04-12 03:48:48,Chennai,27.15,73,Clouds
+2025-04-12 03:49:04,Jaipur,26.24,27,Clouds
+2025-04-12 03:49:33,Bangalore,24.79,54,Clouds
+2025-04-12 03:49:50,Rajasthan,26.98,40,Clear
+2025-04-12 03:50:23,Patna,26.02,61,Clear
+2025-04-12 04:12:30,Kolkata,25.51,83,Clouds
+2025-04-12 04:13:02,Mumbai,27.0,73,Clear
+2025-04-12 04:13:28,Rajasthan,26.59,42,Clear
+2025-04-12 04:14:00,Bangalore,24.49,55,Clouds
+2025-04-12 04:14:29,Haridwar,19.01,58,Clouds
+2025-04-12 04:15:32,Mumbai,27.0,73,Clear
+2025-04-12 04:15:59,Jaipur,25.34,29,Clouds
